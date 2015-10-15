@@ -4,8 +4,8 @@ Multi-Layer Perceptron and KNN with KD-Tree
 Please make sure you import all 6 files into the workspace
 
 ********Common Variables********
-x: input data  ~~~~~~~~format~ [[feature1, feature2, ..., featuren], [feature1, feature2, ..., featuren], ..., [feature1, feature2, ..., featuren]]
-t: targets ~~~~~~~~~~~~format~ [[target1], [target2], ..., [targetn]]
+x: input data  ###format: [[feature1, feature2, ..., featuren], [feature1, feature2, ..., featuren], ..., [feature1, feature2, ..., featuren]]
+t: targets ###format: [[target1], [target2], ..., [targetn]]
 testd: test data point
 *************************
 
